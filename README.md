@@ -46,11 +46,8 @@
 
 ### 📌 `#b [enemigo]` (ej. `#b lobo`, `#b lizardo`)  
 - Muestra estadísticas detalladas del enemigo:  
-  - Ejemplo de comando: `#b lizardo`  
-  - Formato de respuesta:  
-    ```
-    🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
-    ```
+    - `#b lizardo`  
+>🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
 
 
 ### ❌ `#f @jugador`  
