@@ -47,7 +47,7 @@
 ### 📌 `#b [enemigo]` (ej. `#b lobo`, `#b lizardo`)  
 - Muestra estadísticas del enemigo. Ejemplo:
 - #b lizardo
->🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
+->🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
 
 
 ### ❌ `#f @jugador`  
