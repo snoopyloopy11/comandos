@@ -45,9 +45,12 @@
 - Lista todos los enemigos ágiles/resistentes de Kukoro.  
 
 ### 📌 `#b [enemigo]` (ej. `#b lobo`, `#b lizardo`)  
-- Muestra estadísticas del enemigo. Ejemplo:  
-#b lizardo
->🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
+- Muestra estadísticas detalladas del enemigo:  
+  - Ejemplo de comando: `#b lizardo`  
+  - Formato de respuesta:  
+    ```
+    🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
+    ```
 
 
 ### ❌ `#f @jugador`  
