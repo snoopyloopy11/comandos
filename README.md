@@ -27,7 +27,7 @@
 - Agrupa a los jugadores por enemigo *sin* mostrar su `!getinfo`.  
 
 ### ❓ `#extra`  
-- Jugadores sin enemigo asignado (Ya no es necesario, pero lo dejo por si HeyNau actualiza nuevos enemigos).  
+- Jugadores sin enemigo asignado (útil si HeyNau añade nuevos enemigos).  
 
 ### 🏷️ Comandos `#bestia` / `#maldito` / `#humanoide` / `#desconocido`  
 - Agrupa enemigos por categoría/especie.  
@@ -45,8 +45,10 @@
 - Lista todos los enemigos ágiles/resistentes de Kukoro.  
 
 ### 📌 `#b [enemigo]` (ej. `#b lobo`, `#b lizardo`)  
-- Muestra estadísticas del enemigo. Ejemplo:  
-   `#b lizardo`   > → 🦎 **Lizardo Lancero [Bestia]** ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★  
+- Muestra estadísticas del enemigo. Ejemplo:
+- #b lizardo
+>🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
+
 
 ### ❌ `#f @jugador`  
 - Elimina a un jugador (muerto) de las listas `#info` y `#ENEMIGOS`.  
