@@ -8,8 +8,7 @@
   - Jugadores registrados con `!kukoro`.  
   - Jugadores en misión con `!getinfo`.  
   - Total de enemigos registrados.  
-  - Apartado de "faltantes" si alguien no usó `!getinfo`.  
-
+  
 ### 📋 `#all`  
 - Muestra todos los `!getinfo` (agrupados por enemigo).  
 
