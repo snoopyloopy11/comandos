@@ -26,7 +26,7 @@
 - Muestra los jugadores que enfrentarán a dicho enemigo (ignora acentos).  
 
 ### 👾 `#enemigos` / `#mobs`  
-- Agrupa a los jugadores por enemigo *sin* mostrar su `!getinfo`.   
+- Agrupa a los jugadores por enemigo sin mostrar su `!getinfo`.   
 
 ### 📜 Comandos `#bestia` / `#maldito` / `#humanoide` / `#desconocido`  
 - Agrupa enemigos por categoría/especie.  
