@@ -24,10 +24,7 @@
 - Muestra los jugadores que enfrentarán a dicho enemigo (ignora acentos).  
 
 ### 👾 `#enemigos` / `#mobs`  
-- Agrupa a los jugadores por enemigo *sin* mostrar su `!getinfo`.  
-
-### ❓ `#extra`  
-- Jugadores sin enemigo asignado (útil si HeyNau añade nuevos enemigos).  
+- Agrupa a los jugadores por enemigo *sin* mostrar su `!getinfo`.   
 
 ### 📜 Comandos `#bestia` / `#maldito` / `#humanoide` / `#desconocido`  
 - Agrupa enemigos por categoría/especie.  
@@ -55,6 +52,9 @@
 
 ### 🔚 `#fin`  
 - El bot finaliza su chamba. 😆  
+
+### ❓ `#extra`  
+- Jugadores sin enemigo asignado (Ya no es necesario, pero lo dejo por si HeyNau actualiza nuevos enemigos). 
 
 ### 🔐 Comandos adicionales para autorizar a no-mods:  
 - `#add @Xpersona` → Añade permisos.  
