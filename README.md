@@ -16,10 +16,10 @@
 - Actualiza el `!getinfo` de todos los jugadores en partida (ideal para cambios de habilidades).  
   - *Nota:* No incluye jugadores no registrados a tiempo (requiere actualización manual).  
 
-- `#get @jugadorX @jugadorX2, @jugadorX3`  
+- ### `#get @jugadorX @jugadorX2, @jugadorX3`  
   - Actualiza el !getinfo de jugadores especificos (solo si estaban en la memoria del bot)  
 
-- `#get mino, lobo, limo, etc`  
+- ### `#get mino, lobo, limo, etc`  
   - Actualiza el !getinfo de los jugadores que luchan contra dicho enemigo
 
 ### 🆑 `#clear`  
