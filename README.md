@@ -53,7 +53,7 @@
 ### 🕊️ `#f @jugador`  
 - Elimina a un jugador (muerto) de las listas `#info` y `#ENEMIGOS`.  
 
-### 🏁 `#fin`  
+### 🔚 `#fin`  
 - El bot finaliza su chamba. 😆  
 
 ### 🔐 Comandos adicionales para autorizar a no-mods:  
