@@ -17,8 +17,11 @@
 - Actualiza el `!getinfo` de todos los jugadores en partida (ideal para cambios de habilidades).  
   - *Nota:* No incluye jugadores no registrados a tiempo (requiere actualización manual).  
 
+### 🆑 `#clear`  
+- Elimina la información de jugadores regitrada en el bot.
+
 ### 🔄 `#rst`  
-- Reinicia toda la información registrada.  
+- Reinicia la mazmorra y limpia la información de jugadores registrada (ideal para no usar el menu de pausa y el botón "reiniciar").  
 
 ### 🎯 `#ENEMIGO` (ej. `#lobo`, `#limo`, `#murciélago`, `#sombra`, etc.)  
 - Muestra los jugadores que enfrentarán a dicho enemigo (ignora acentos).  
