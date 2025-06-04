@@ -29,7 +29,7 @@
 ### ❓ `#extra`  
 - Jugadores sin enemigo asignado (útil si HeyNau añade nuevos enemigos).  
 
-### 🏷️ Comandos `#bestia` / `#maldito` / `#humanoide` / `#desconocido`  
+### 📜 Comandos `#bestia` / `#maldito` / `#humanoide` / `#desconocido`  
 - Agrupa enemigos por categoría/especie.  
 
 ### 🏃 `#agiles` y 🛡️ `#resistentes`  
@@ -38,7 +38,7 @@
 ### ⚠️ `#riesgo`  
 - Muestra jugadores que ponen en riesgo la mazmorra.  
 
-### 💀 `#kami`  
+### 🛩️ `#kami`  
 - Jugadores que matarán a su enemigo al morir.  
 
 ### 📊 `#b agiles` y `#b resistentes`  
@@ -50,7 +50,7 @@
 >🦎 Lizardo Lancero [Bestia] ★ 🛡️6% ➤ 💥24% ➤ ⚡12% ★
 
 
-### ❌ `#f @jugador`  
+### 🕊️ `#f @jugador`  
 - Elimina a un jugador (muerto) de las listas `#info` y `#ENEMIGOS`.  
 
 ### 🏁 `#fin`  
