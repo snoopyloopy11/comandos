@@ -67,4 +67,5 @@
 Los siguientes comandos **no están disponibles** para evitar spam o malas prácticas en el chat:  
 **`#add`, `#remove`, `#users`, `#all`, `#clear`, `#rst`, `#fin`, `#get`**.  
 *Solo el streamer 📹 o los moderadores ⚔️ pueden utilizarlos.*
-    ```
+   
+ ```
