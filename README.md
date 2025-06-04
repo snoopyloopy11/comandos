@@ -14,7 +14,7 @@
 
 ### 🔄 `#get`  
 - Actualiza el `!getinfo` de todos los jugadores en partida (ideal para cambios de habilidades).  
-  - *Nota:* No incluye jugadores no registrados a tiempo (requiere actualización manual).  
+  - 📝 *Nota:* No incluye jugadores no registrados a tiempo (requiere actualización manual).  
 
 - ### `#get @jugadorX @jugadorX2, @jugadorX3`  
   - Actualiza el !getinfo de jugadores especificos (solo si estaban en la memoria del bot)  
@@ -68,7 +68,7 @@
 - `#add @Xpersona` → Añade permisos.  
 - `#remove @Xpersona` → Revoca permisos.  
 - `#users` → Lista de usuarios autorizados.  
->- ⚠️ *Nota para usuarios no moderadores:*  
+>- ⚠️ 📝 *Nota para usuarios no moderadores:*  
 Los siguientes comandos **no están disponibles** para evitar spam o malas prácticas en el chat:  
 **`#add`, `#remove`, `#users`, `#all`, `#clear`, `#rst`, `#fin`, `#get`**.  
 *Solo el streamer 📹 o los moderadores ⚔️ pueden utilizarlos.* 
