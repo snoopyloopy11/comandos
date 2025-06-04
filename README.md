@@ -5,7 +5,7 @@
 
 ### ℹ️ `#info`  
 - Muestra información de la mazmorra:  
-  - Jugadores registrados con `!kukoro`.  
+  - Jugadores jugando.  
   - Jugadores en misión con `!getinfo`.  
   - Total de enemigos registrados.  
   
