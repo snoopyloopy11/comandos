@@ -1,4 +1,4 @@
-# 📜 Comandos disponibles solo para streamer y moderadores. 🎮  
+# 📜 Comandos disponibles solo para 📹 streamer y 🗡️ moderadores.  
 
 ### ▶️ `#star`  
 - Enciende el bot para que empiece a procesar la información de Kukoro.  
